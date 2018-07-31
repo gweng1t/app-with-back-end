@@ -1,12 +1,13 @@
-# Exo de LUNDI avec BACK-END, BASE DE DONNEE
+## Go lien App HEROKU:
 # https://test1appigwen.herokuapp.com/
 
-# README
-
-### Version ruby
-
-ruby '2.5.1'
-
+## Voir mon code:
+```
+$ git clone https://github.com/Gwekkeo/app-with-back-end.git
+```
+```
+$ cd app-with-back-end
+```
 
 ## Etapes:
 * Installation des gems (sans la production)
@@ -33,4 +34,8 @@ $ rails server -p 4567
 ```
 $ localhost:4567
 ```
+
+### Version ruby
+ruby '2.5.1'
+
 Fait par CASSAND Gwendoline
