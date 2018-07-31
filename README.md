@@ -23,7 +23,7 @@ $ rails db:migrate
 $ rails server
 ```
 
-## Dans la barre d'url du Navigateur web
+### Dans la barre d'url du Navigateur web
 ```
 $ localhost:3000
 ```
